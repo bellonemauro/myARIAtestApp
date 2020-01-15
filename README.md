@@ -24,6 +24,7 @@ The external dependences for this applications are:
 # Building Instructions:
 
 Use CMake to generate the solution for your system, see http://www.cmake.org
+
 If the QT_DIR is not found automatically set it to:
  __YOUR_QT_INSTALLATION_FOLDER__/__YOUR_QT_VERSION/___YOUR_COMPILER_VERSION___/lib/cmake/Qt5/
 
