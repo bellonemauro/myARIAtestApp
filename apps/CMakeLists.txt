@@ -1,7 +1,7 @@
 #  +---------------------------------------------------------------------------+
 #  |                                                                           |
 #  |                                                                           |
-#  | Biopen wizard                                                             |
+#  |                                                                           |
 #  |                                                                           |
 #  | Authors: Mauro Bellone - http://www.maurobellone.com                      |
 #  | Released under GNU GPL License.                                           |
